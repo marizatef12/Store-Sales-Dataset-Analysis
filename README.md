@@ -20,8 +20,6 @@ The project includes:
 - Selwan Mohamed Ali (Team Leader)
 - Malak Yousof Ahmed  
 - Mariz Atef Shaker  
-- Abdelrahman Essam Abdallah  
-- Sajida Hany Nabil  
 
 ---
 
