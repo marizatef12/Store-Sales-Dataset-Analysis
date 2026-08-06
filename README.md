@@ -1,8 +1,7 @@
-# Store Sales Dataset Analysis & Forecasting
+# Multitable Ecommerce European Fashion Dataset Analysis & Forecasting
 
 ## Project Idea
-This project focuses on analyzing a retail store sales dataset to understand sales performance, uncover business insights, answer analytical and forecasting questions, and build a visualization dashboard to support strategic and operational decision-making.
-
+TThis project analyzes the European Fashion Store multi-table dataset , simulating a real-world fashion e-commerce retailer across 6 European countries. The dataset contains 7 relational CSV tables covering sales transactions, products, customers, campaigns, and stock levels across 580 customers and 2,200+ transactions. The goal is to clean and prepare the data, uncover business insights, and build predictive ML models to support smarter pricing and advertising decisions.
 ---
 
 ## Project Overview
